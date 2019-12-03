@@ -1,0 +1,14 @@
+.c {
+   text-align: center;
+   font-size: 30px;
+   font-weight: 700;
+}
+
+.container {
+    box-sizing: border-box;
+}
+
+.password {
+    font-size: 30px;
+   font-weight: 700;
+}
